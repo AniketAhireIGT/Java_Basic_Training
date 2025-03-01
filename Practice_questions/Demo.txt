@@ -1,0 +1,86 @@
+Java-- 5 Days --- Fundamentals
+	
+	Basics 
+	Oops
+	Inheritance, Ploy., Abs, Enc
+	EH 
+	MT 
+	Collection 
+	JDBC
+
+			
+ 
+1 ) JDK : https://download.oracle.com/java/21/latest/jdk-21_windows-x64_bin.msi (sha256)
+
+2 ) Eclipse : https://www.eclipse.org/downloads/download.php?file=/technology/epp/downloads/release/2024-09/R/eclipse-jee-2024-09-R-win32-x86_64.zip
+
+3 ) MYSQL : https://dev.mysql.com/downloads/installer/
+
+4 )  STS : https://spring.io/tools
+
+5 ) POST man : https://www.postman.com/downloads/
+
+6 ) GIT : https://git-scm.com/downloads/win 
+			
+
+		Git install 
+		Git hub account : GitHub.com/signup (comp or own ) credentials 
+				: login 
+						user name 
+						user pass
+			cmd : to set the user name and email 
+				
+			Set your username and email globally 
+				Open the terminal
+		Set your username with: git config --global user.name "Your Name"
+		Set your email with   : git config --global user.email "your@example.com"
+
+		Create a Repository : 
+			git init
+			git add .
+			git commit -m "first commit"
+			git branch -M main
+			git remote add origin https://github.com/Thaneshwara848/IGTSolutions.git
+			git push -u origin main
+	-----------------------------------------------------------------------
+			git add .
+			git commit -m  "second commit "
+			git push 
+
+
+
+		init 
+		commit 
+		add
+		push 
+		pull 
+		clone 
+		branch : create 
+		branmch : dlete 
+		bramch : merge 
+		stash 
+		log 
+		
+			
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
